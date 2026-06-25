@@ -54,4 +54,7 @@ graph TD
 [ ] Export to result.ttl
 
 ## Libreries
-'pip install pandas numpy scikit-learn SPARQLWrapper requests tqdm'
+
+```bash
+pip install pandas numpy scikit-learn SPARQLWrapper requests tqdm
+```
