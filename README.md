@@ -38,6 +38,9 @@ graph TD
 
 [ ] Run GraphFeatureExtractor (with caching)
 
+
+'pip install pandas numpy scikit-learn SPARQLWrapper requests tqdm'
+
 [ ] Step 3: Training
 
 [ ] Split data into X and y
