@@ -52,3 +52,6 @@ graph TD
 [ ] Predict on KG-2022-test.nt
 
 [ ] Export to result.ttl
+
+## Libreries
+'pip install pandas numpy scikit-learn SPARQLWrapper requests tqdm'
